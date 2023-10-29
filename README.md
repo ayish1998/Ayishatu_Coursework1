@@ -31,4 +31,3 @@ To use the website, simply navigate to the provided URL or deploy it on your ser
 
 ---
 
-Feel free to customize this description to match the specifics of your coursework project. This information should provide a clear overview for anyone visiting your GitHub repository and help them understand the purpose and functionality of your alumni website.
